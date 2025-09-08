@@ -1,0 +1,1 @@
+wget -qO install-guac-1.6.0-deb12.sh https://github.com/Charid30/Thehive-debs/releases/download/hive/install-guac-1.6.0-deb12.sh && chmod +x install-guac-1.6.0-deb12.sh && sudo ./install-guac-1.6.0-deb12.sh | tee guacamole-install.log
